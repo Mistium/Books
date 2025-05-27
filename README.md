@@ -1,3 +1,4 @@
+```
 Some book projects i wrote a whileeeee ago
 
 Sirin
@@ -12,9 +13,11 @@ Cactus Clan
   This whole world is a lot more chaotic and very much like some kind of op isekai shit lmao.
 
 Investiture
-  A small fan sotry i wrote in the world of Mistborn (series by Brandon Sanderson) I love the world and the magic systems so i wanted to give it a shot myself.
+  A small fan sotry i wrote in the world of Mistborn (series by Brandon Sanderson)
+  I love the world and the magic systems so i wanted to give it a shot myself.
 
 Globe
   Mini book where the main point was the world building not the plot itself and it really shows
   Set within a self contained "Universe" inside of a truly massive sphere with steampunk technology
   I love this entire world but i dont love the story i wrote in it.
+```
